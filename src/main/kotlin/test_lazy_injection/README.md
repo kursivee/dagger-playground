@@ -1,0 +1,1 @@
+Wanted to see how lazy injection was handled with dagger singletons. Looks like singletons are only initialized when actually injected and not during Dagger Component creation.
